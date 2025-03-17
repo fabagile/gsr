@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+// import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <h1 class="size-2xl font-semibold">Bienvenue !</h1>
+    <!-- <TheWelcome /> -->
   </main>
 </template>
